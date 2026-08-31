@@ -1,0 +1,31 @@
+PRIVACY POLICY FOR PIXEL MEDIA SOUND CONTROL
+
+Effective August 31, 2026
+
+Pixel Media Sound Control is a local device utility provided by Fuse Labs Software. It controls only the media-audio volume exposed by Android.
+
+DATA ACCESS AND COLLECTION
+
+The app accesses the device's current media-volume level and mute state through Android's local audio service so it can display and change that setting. This information remains on the device. The app does not collect, store, transmit, sell, or share personal or sensitive user data.
+
+NETWORK SERVICES AND THIRD PARTIES
+
+The app has no Internet permission. It contains no advertising, analytics, tracking, account system, cloud service, or third-party data-collection SDK.
+
+RETENTION, DELETION, AND SECURITY
+
+Because Fuse Labs Software does not receive or retain user data from the app, there is no server-side user data to delete. Uninstalling the app removes the app and any app-local state managed by Android. Keeping media-volume access local to Android avoids transmitting it to external systems.
+
+CHILDREN'S PRIVACY
+
+The app is a general-purpose utility and is not directed to children. It does not knowingly collect data from anyone, including children.
+
+POLICY CHANGES
+
+If the app's data practices change, this policy and the Google Play Data safety disclosure will be updated before those changes are released.
+
+CONTACT
+
+For privacy or support questions, contact support@fuselabssoftware.com.
+
+Pixel Media Sound Control is an independent app and is not affiliated with, endorsed by, or sponsored by Google LLC.
